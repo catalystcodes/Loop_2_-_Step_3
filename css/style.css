@@ -1,0 +1,49 @@
+body {
+    background: #a486ea;
+}
+
+.head1 {
+    background-color: #af7bd5;
+    height: 5rem;
+    width: 17rem;
+    margin: 5rem auto;
+}
+
+.img1 {
+    height: 1rem;
+    width: 1rem;
+    background-color: white;
+    border-radius: 50%;
+    padding: 0.2rem;
+}
+
+.line1 {
+    height: 2.5rem;
+    width: 0.1rem;
+    background-color: white;
+}
+
+.flex1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: -13rem;
+}
+
+.flex2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: -1.4rem;
+}
+
+.p1 {
+    color: white;
+    font-family: sans-serif;
+    font-size: 0.9rem;
+    padding-right: 5rem;
+    margin-left: 2rem;
+}
+
+.
